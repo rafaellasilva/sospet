@@ -31,8 +31,8 @@
     </nav>
     
 
-    <h2> Bem-Vindo!</h2>
-
+    <h2> Seja Bem-Vindo!</h2>
+    
     <div id="a">
         <h3>Faça seu Cadastro aqui!</h3>
 

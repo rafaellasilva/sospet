@@ -85,7 +85,7 @@
 
 		<form action="index.php?classe=UsuarioController&metodo=cadastrar" method="post">
 			<div id="nome">
-				<h2 class="nome">Nome e Sobrenome:</h2>
+				<h2 class="nome"> Seu Nome e Sobrenome:</h2>
 				<input class="primeironome" type="text" name="nome_usuario" placeholder="Nome inteiro">
 				
 			</div>
