@@ -1,0 +1,91 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+/* Todo o design do body (características gerais) */
+body {
+    background-color:#c0c0c0;
+    font-family: 'Quicksand', sans-serif;
+    background-position-x: left;
+    color: #fff;
+    font-size:40px;
+    
+}
+
+/* Design das Tags H2*/
+h2
+{
+    color:#fff;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+    text-align:center;
+}
+
+/* Design da barrinha de rolamento*/
+body::-webkit-scrollbar
+{
+    width:0.50rem;
+}
+
+body::-webkit-scrollbar-track
+{
+    background: rgba(163, 162, 162, 0.945)
+}
+
+body::-webkit-scrollbar-thumb
+{
+    background:rgba(84, 161, 224, 0.808);
+}
+
+.texto{
+    margin:20px;
+    text-align:justify;
+    font-size:20px;
+}
+
+#menu
+{
+    background-color:rgb(89, 189, 202);
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#menu ul li{
+    display:inline;
+    font-family: 'Quicksand', sans-serif;
+    color:#fff;
+    font-size: 20px;
+    padding-right: 75px;
+}
+
+
+#menu ul li a:hover
+{
+    color:rgb(26, 86, 218);
+    /*border-bottom:2px solid rgb(26, 86, 218);*/
+    transform: scale(1.05);
+}
+
+b {
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.botao{
+    background-color:rgb(89, 189, 202);
+    width:270px;
+    height:50px;
+    border:none;
+    color:#fff;
+    border-radius:30px;
+}
+
+.botao:hover{
+    transform: scale(1.05);
+}
+
+#a{
+    text-align: center;
+}
